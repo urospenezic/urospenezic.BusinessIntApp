@@ -1,0 +1,25 @@
+﻿<Window x:Class="BusinessIntApp.UpdatePage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BusinessIntApp"
+        mc:Ignorable="d"
+        Title="UpdatePage" Height="450" Width="450">
+    <Grid Margin="0,0,3.6,0">
+        <Button Name="updateBtn" Content="Update" HorizontalAlignment="Left" Margin="166,290,0,0" VerticalAlignment="Top" Width="109" Height="58" Click="UpdateBtn_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="30,50,0,0" TextWrapping="Wrap"  Text="Ime I Prezime:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="30,90,0,0" TextWrapping="Wrap"  Text="Recency:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="30,130,0,0" TextWrapping="Wrap" Text="Frequency:" VerticalAlignment="Top" Height="24" Width="60"/>
+        <TextBlock HorizontalAlignment="Left" Margin="30,170,0,0" TextWrapping="Wrap" Text="Monetary:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="30,210,0,0" TextWrapping="Wrap" Text="Naplata:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="30,250,0,0" TextWrapping="Wrap" Text="Znacaj:" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="162,50,0,0" TextWrapping="Wrap" Name="imeiprezime" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="162,90,0,0" TextWrapping="Wrap" Name="recency" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="162,130,0,0" TextWrapping="Wrap" Name="frequency" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="162,170,0,0" TextWrapping="Wrap" Name="monetary" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="162,210,0,0" TextWrapping="Wrap" Name="naplata" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="162,250,0,0" TextWrapping="Wrap" Name="znacaj" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

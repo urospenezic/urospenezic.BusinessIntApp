@@ -1,0 +1,351 @@
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\Model.dll.config
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\Model.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\Model.pdb
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\EntityFramework.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\EntityFramework.xml
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\obj\Debug\Model.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\obj\Debug\Model.pdb
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\netstandard.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.AppContext.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Collections.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Collections.Specialized.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.ComponentModel.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Console.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Data.Common.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Globalization.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.IO.Compression.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.IO.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.IO.FileSystem.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.IO.Pipes.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Linq.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Linq.Expressions.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Linq.Parallel.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Linq.Queryable.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Net.Http.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Net.NameResolution.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Net.Ping.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Net.Primitives.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Net.Requests.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Net.Security.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Net.Sockets.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Net.WebSockets.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.ObjectModel.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Reflection.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Resources.Reader.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Resources.Writer.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Handles.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Security.Claims.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Security.Principal.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Security.SecureString.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Text.Encoding.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Threading.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Tasks.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Thread.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Timer.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.ValueTuple.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Xml.XDocument.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Xml.XPath.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\Castle.Core.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\Moq.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\Castle.Core.xml
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\Moq.xml
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\Model.dll.config
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\Model.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\Model.pdb
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\netstandard.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.AppContext.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Collections.Concurrent.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Collections.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Collections.NonGeneric.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Collections.Specialized.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.ComponentModel.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.ComponentModel.Primitives.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Console.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Data.Common.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.Contracts.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.Debug.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.Process.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.Tools.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Diagnostics.Tracing.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Drawing.Primitives.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Dynamic.Runtime.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Globalization.Calendars.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Globalization.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Globalization.Extensions.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.IO.Compression.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.IO.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.IO.FileSystem.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.IO.IsolatedStorage.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.IO.Pipes.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Linq.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Linq.Expressions.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Linq.Parallel.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Linq.Queryable.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Net.Http.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Net.NameResolution.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Net.NetworkInformation.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Net.Ping.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Net.Primitives.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Net.Requests.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Net.Security.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Net.Sockets.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Net.WebSockets.Client.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Net.WebSockets.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.ObjectModel.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Reflection.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Reflection.Extensions.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Reflection.Primitives.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Resources.Reader.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Resources.ResourceManager.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Resources.Writer.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Extensions.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Handles.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.InteropServices.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Numerics.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Security.Claims.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Security.Principal.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Security.SecureString.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Text.Encoding.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Text.RegularExpressions.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Threading.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Overlapped.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Tasks.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Thread.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Threading.ThreadPool.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Timer.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.ValueTuple.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Xml.ReaderWriter.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Xml.XDocument.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Xml.XmlDocument.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Xml.XmlSerializer.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Xml.XPath.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\Castle.Core.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\EntityFramework.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\Moq.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\Castle.Core.xml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\EntityFramework.xml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\Moq.xml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\obj\Debug\Model.csproj.CopyComplete
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\obj\Debug\Model.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\obj\Debug\Model.pdb
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\obj\Debug\Model.Migrations.InitialCreate.resources
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\Model\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\Model.dll.config
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\Model.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\Model.pdb
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\netstandard.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.AppContext.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Collections.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.ComponentModel.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Console.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Data.Common.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Globalization.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.IO.Compression.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.IO.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.IO.Pipes.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Linq.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Net.Http.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Net.Ping.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Net.Primitives.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Net.Requests.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Net.Security.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Net.Sockets.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.ObjectModel.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Reflection.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Resources.Reader.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Resources.Writer.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Security.Claims.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Security.Principal.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Security.SecureString.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Text.Encoding.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Threading.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Threading.Thread.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Threading.Timer.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.ValueTuple.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Xml.XPath.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\Castle.Core.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\EntityFramework.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\Moq.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\Castle.Core.xml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\EntityFramework.xml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\Moq.xml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\obj\Debug\Model.Migrations.InitialCreate.resources
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\obj\Debug\Model.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\Model\Model\obj\Debug\Model.pdb

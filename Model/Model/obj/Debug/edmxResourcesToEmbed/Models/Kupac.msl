@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KupciModelStoreContainer" CdmEntityContainer="KupciEntities">
+    <EntitySetMapping Name="Kupacs">
+      <EntityTypeMapping TypeName="KupciModel.Kupac">
+        <MappingFragment StoreEntitySet="Kupac">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ImeIPrezime" ColumnName="ImeIPrezime" />
+          <ScalarProperty Name="Recency" ColumnName="Recency" />
+          <ScalarProperty Name="Frequency" ColumnName="Frequency" />
+          <ScalarProperty Name="Monetary" ColumnName="Monetary" />
+          <ScalarProperty Name="Naplata" ColumnName="Naplata" />
+          <ScalarProperty Name="Znacaj" ColumnName="Znacaj" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

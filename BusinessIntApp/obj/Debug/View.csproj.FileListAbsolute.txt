@@ -1,0 +1,94 @@
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\BusinessIntApp.exe.config
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\BusinessIntApp.exe
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\BusinessIntApp.pdb
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\MainWindow.baml
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\MainWindow.g.cs
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\App.g.cs
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp_MarkupCompile.cache
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp_MarkupCompile.lref
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.g.resources
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.Properties.Resources.resources
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.exe
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.pdb
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\EntityFramework.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\Model.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\ViewModel.dll
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\Model.pdb
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\Model.dll.config
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\ViewModel.pdb
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\ViewModel.dll.config
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\EntityFramework.xml
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\InsertPage.g.cs
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\UpdatePage.g.cs
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\InsertPage.baml
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\UpdatePage.baml
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\View.csproj.CopyComplete
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\App.baml
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\StatsPage.g.cs
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\StatsPage.baml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\BusinessIntApp.exe.config
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\BusinessIntApp.exe
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\BusinessIntApp.pdb
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\EntityFramework.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\Model.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\ViewModel.dll
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\Model.pdb
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\Model.dll.config
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\ViewModel.pdb
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\ViewModel.dll.config
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\EntityFramework.xml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\View.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\StatsPage.g.cs
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\InsertPage.g.cs
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\MainWindow.g.cs
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\UpdatePage.g.cs
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\App.g.cs
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp_MarkupCompile.cache
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp_MarkupCompile.lref
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\App.baml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\StatsPage.baml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\InsertPage.baml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\MainWindow.baml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\UpdatePage.baml
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.g.resources
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.Properties.Resources.resources
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\View.csproj.GenerateResource.cache
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\View.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\View.csproj.CopyComplete
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.exe
+D:\dokumenta\Work Work\Visual Studio\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.pdb
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\bin\Debug\EntityFramework.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\bin\Debug\Model.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\bin\Debug\ViewModel.dll
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\bin\Debug\Model.pdb
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\bin\Debug\Model.dll.config
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\bin\Debug\ViewModel.pdb
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\bin\Debug\ViewModel.dll.config
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\bin\Debug\EntityFramework.xml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\StatsPage.g.cs
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\InsertPage.g.cs
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\MainWindow.g.cs
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\UpdatePage.g.cs
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\App.g.cs
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\BusinessIntApp_MarkupCompile.cache
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\BusinessIntApp_MarkupCompile.lref
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\App.baml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\StatsPage.baml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\InsertPage.baml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\MainWindow.baml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\UpdatePage.baml
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\BusinessIntApp.g.resources
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\BusinessIntApp.Properties.Resources.resources
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\BusinessIntApp.exe
+C:\Users\Uros\Downloads\lolsp2.businessintapp-master\BusinessIntApp\obj\Debug\BusinessIntApp.pdb

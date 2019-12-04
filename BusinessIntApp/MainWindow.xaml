@@ -1,0 +1,41 @@
+﻿<Window x:Class="BusinessIntApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BusinessIntApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1200">
+    <Grid>
+        <DataGrid x:Name="myDataGrid" x:FieldModifier="public" AutoGenerateColumns="False" CanUserAddRows="False" ColumnWidth="*" ItemsSource="{Binding Kupci}" Margin="0,0,-0.4,34" SelectionMode="Single">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ImeIPrezime" Binding="{Binding Path=ImeIPrezime}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Recency" Binding="{Binding Path=Recency}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Frequency" Binding="{Binding Path=Frequency}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Monetary" Binding="{Binding Path=Monetary}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Naplata" Binding="{Binding Path=Naplata}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Znacaj" Binding="{Binding Path=Znacaj}"></DataGridTextColumn>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="Action"></TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.HeaderTemplate>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button x:Name="updateBtn" Content="UPDATE" Width="75" Click="UpdateBtn_Click"></Button>
+                                <Button x:Name="removeBtn" Content="REMOVE" Width="75" Click="RemoveBtn_Click"></Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+
+
+        </DataGrid>
+        <Button x:Name="statsBtn" Content="Classify" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="34" Width="75" Margin="0,0,9.6,0" RenderTransformOrigin="0.5,0.512" Click="StatsBtn_Click"/>
+        <Button x:Name="addBtn" Content="Add Kupac" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="34" Width="75" Margin="0,0,1108.6,0" Click="AddBtn_Click"/>
+
+    </Grid>
+</Window>

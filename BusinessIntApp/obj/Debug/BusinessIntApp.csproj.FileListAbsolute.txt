@@ -1,0 +1,15 @@
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\BusinessIntApp.exe.config
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\BusinessIntApp.exe
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\bin\Debug\BusinessIntApp.pdb
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.csprojAssemblyReference.cache
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\MainWindow.g.cs
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\App.g.cs
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp_MarkupCompile.cache
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp_MarkupCompile.lref
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\MainWindow.baml
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.g.resources
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.Properties.Resources.resources
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.csproj.GenerateResource.cache
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.csproj.CoreCompileInputs.cache
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.exe
+C:\Users\MiniZivotinja\source\repos\BusinessIntApp\BusinessIntApp\obj\Debug\BusinessIntApp.pdb
